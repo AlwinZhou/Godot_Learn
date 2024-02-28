@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cavlh0srd1jdr"
+path="res://.godot/imported/platformer_level03.mp3-1a4c7752898ce3f329b892a0d16f106b.mp3str"
+
+[deps]
+
+source_file="res://External_folder/Music by Pascal Belisle/platformer_level03.mp3"
+dest_files=["res://.godot/imported/platformer_level03.mp3-1a4c7752898ce3f329b892a0d16f106b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
